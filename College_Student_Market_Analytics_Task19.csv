@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Student_Department,Region,Product_Name,Category,Quantity,Unit_Price,Sales,Payment_Mode
+COL0001,2026-05-06,AI&DS,South,Laptop Stand,Computer Accessories,1,1256.92,1256.92,UPI
+COL0002,2026-01-17,CSE,North,LED Desk Clock,Study Accessories,2,558.94,1117.88,Card
+COL0003,2026-08-03,AI&DS,West,Water Bottle,Student Essentials,1,606.34,606.34,Cash
+COL0004,2026-06-24,ECE,South,Smart Study Lamp,Study Accessories,3,934.63,2803.89,Card
+COL0005,2026-02-19,ECE,East,Bluetooth Speaker,Electronics,2,1468.76,2937.52,Cash
+COL0006,2026-07-13,CSE,East,Wireless Mouse,Computer Accessories,8,653.7,5229.6,Cash
+COL0007,2026-01-24,CIVIL,South,File Folder Set,Stationery,4,207.14,828.56,Cash
+COL0008,2026-07-14,ECE,West,USB-C Hub,Computer Accessories,4,1394.21,5576.84,Cash
+COL0009,2026-05-17,CIVIL,North,Mechanical Pencil Set,Stationery,6,173.82,1042.92,Card
+COL0010,2026-07-14,ECE,South,LED Desk Clock,Study Accessories,4,512.04,2048.16,Cash
+COL0011,2026-06-11,EEE,East,Wireless Mouse,Computer Accessories,4,690.77,2763.08,UPI
+COL0012,2026-09-13,EEE,West,College Backpack,Student Essentials,6,1412.85,8477.1,Card
+COL0013,2026-05-15,CIVIL,West,Calculator FX,Study Accessories,3,758.51,2275.53,Net Banking
+COL0014,2026-03-12,MECH,West,Power Bank,Electronics,4,1538.15,6152.6,UPI
+COL0015,2026-03-23,CIVIL,West,Wireless Mouse,Computer Accessories,2,603.94,1207.88,UPI
+COL0016,2026-08-28,MECH,East,Earbuds Lite,Electronics,7,1935.42,13547.94,UPI
+COL0017,2026-06-24,CSE,East,Laptop Stand,Computer Accessories,5,1263.41,6317.05,Net Banking
+COL0018,2026-05-15,MECH,South,Mechanical Pencil Set,Stationery,8,161.22,1289.76,UPI
+COL0019,2026-03-24,MECH,North,Desk Organizer,Study Accessories,4,417.82,1671.28,Cash
+COL0020,2026-07-05,ECE,South,Webcam HD,Computer Accessories,1,2028.3,2028.3,UPI
+COL0021,2026-09-06,CSE,South,Water Bottle,Student Essentials,2,549.36,1098.72,Card
+COL0022,2026-08-05,AI&DS,South,Webcam HD,Computer Accessories,3,2095.67,6287.01,Cash
+COL0023,2026-09-22,EEE,North,Earbuds Lite,Electronics,6,1875.49,11252.94,Card
+COL0024,2026-04-28,MECH,South,Water Bottle,Student Essentials,2,579.6,1159.2,UPI
+COL0025,2026-01-17,ECE,North,USB-C Hub,Computer Accessories,1,1228.58,1228.58,Card
+COL0026,2026-03-09,CIVIL,West,Calculator FX,Study Accessories,8,753.34,6026.72,Card
+COL0027,2026-02-19,CIVIL,West,Webcam HD,Computer Accessories,7,2062.84,14439.88,Cash
+COL0028,2026-01-28,CIVIL,North,Study Planner,Stationery,7,297.03,2079.21,UPI
+COL0029,2026-02-25,AI&DS,South,Earbuds Lite,Electronics,6,2013.17,12079.02,Card
+COL0030,2026-04-04,ECE,West,LED Desk Clock,Study Accessories,8,509.49,4075.92,Card
+COL0031,2026-02-20,CSE,North,USB-C Hub,Computer Accessories,8,1379.02,11032.16,UPI
+COL0032,2026-09-04,AI&DS,West,Water Bottle,Student Essentials,3,587.79,1763.37,UPI
+COL0033,2026-07-19,ECE,West,Mechanical Pencil Set,Stationery,7,161.18,1128.26,Cash
+COL0034,2026-06-01,AI&DS,North,Study Planner,Stationery,8,278.36,2226.88,UPI
+COL0035,2026-09-02,MECH,South,Bluetooth Speaker,Electronics,1,1455.14,1455.14,UPI
+COL0036,2026-02-05,MECH,North,Keyboard Slim,Computer Accessories,2,1069.2,2138.4,Card
+COL0037,2026-05-07,MECH,North,Earbuds Lite,Electronics,2,2066.72,4133.44,UPI
+COL0038,2026-04-15,CIVIL,East,Study Planner,Stationery,6,325.0,1950.0,Card
+COL0039,2026-06-03,EEE,East,Calculator FX,Study Accessories,7,740.01,5180.07,UPI
+COL0040,2026-02-21,CSE,South,Smart Study Lamp,Study Accessories,8,920.78,7366.24,Cash
+COL0041,2026-05-06,ECE,East,Notebook Pro,Stationery,6,267.97,1607.82,Card
+COL0042,2026-01-05,CIVIL,East,Pen Pack,Stationery,5,131.88,659.4,UPI
+COL0043,2026-02-24,CIVIL,South,Notebook Pro,Stationery,5,229.85,1149.25,Cash
+COL0044,2026-04-15,CIVIL,East,Desk Organizer,Study Accessories,4,468.54,1874.16,Net Banking
+COL0045,2026-08-05,ECE,North,Calculator FX,Study Accessories,1,733.85,733.85,UPI
+COL0046,2026-05-15,AI&DS,West,Bluetooth Speaker,Electronics,3,1642.85,4928.55,Net Banking
+COL0047,2026-03-18,MECH,North,LED Desk Clock,Study Accessories,1,506.38,506.38,Cash
+COL0048,2026-01-22,ECE,East,File Folder Set,Stationery,3,196.21,588.63,UPI
+COL0049,2026-02-22,ECE,West,Power Bank,Electronics,4,1449.94,5799.76,Card
+COL0050,2026-04-01,EEE,North,Water Bottle,Student Essentials,3,656.05,1968.15,Card
+COL0051,2026-05-08,ECE,South,Bluetooth Speaker,Electronics,7,1695.65,11869.55,UPI
+COL0052,2026-04-24,AI&DS,West,Earbuds Lite,Electronics,1,2035.19,2035.19,Cash
+COL0053,2026-04-09,EEE,East,Desk Organizer,Study Accessories,4,424.12,1696.48,Cash
+COL0054,2026-09-18,EEE,East,USB-C Hub,Computer Accessories,5,1260.33,6301.65,UPI
+COL0055,2026-05-16,CSE,North,Laptop Stand,Computer Accessories,5,1121.92,5609.6,Net Banking
+COL0056,2026-09-19,CSE,West,Power Bank,Electronics,6,1381.2,8287.2,Card
+COL0057,2026-01-01,MECH,South,Calculator FX,Study Accessories,1,832.36,832.36,Cash
+COL0058,2026-06-19,MECH,East,Study Planner,Stationery,2,325.84,651.68,UPI
+COL0059,2026-06-17,EEE,East,Desk Organizer,Study Accessories,5,463.99,2319.95,Card
+COL0060,2026-07-14,CIVIL,South,College Backpack,Student Essentials,7,1548.45,10839.15,Cash
+COL0061,2026-04-18,EEE,East,Earbuds Lite,Electronics,1,1824.51,1824.51,Net Banking
+COL0062,2026-09-19,EEE,South,Pen Pack,Stationery,8,133.53,1068.24,UPI
+COL0063,2026-05-01,CIVIL,East,Desk Organizer,Study Accessories,6,412.49,2474.94,Card
+COL0064,2026-05-06,EEE,North,College Backpack,Student Essentials,3,1356.42,4069.26,Net Banking
+COL0065,2026-07-16,EEE,West,Study Planner,Stationery,4,312.06,1248.24,Card
+COL0066,2026-02-24,EEE,South,Notebook Pro,Stationery,1,268.55,268.55,Card
+COL0067,2026-05-08,CSE,West,Keyboard Slim,Computer Accessories,8,909.13,7273.04,Card
+COL0068,2026-08-15,MECH,West,Pen Pack,Stationery,6,140.61,843.66,Net Banking
+COL0069,2026-05-07,CIVIL,East,Mechanical Pencil Set,Stationery,8,177.21,1417.68,Net Banking
+COL0070,2026-05-27,AI&DS,East,Water Bottle,Student Essentials,5,591.8,2959.0,Cash
+COL0071,2026-04-29,EEE,South,Bluetooth Speaker,Electronics,2,1483.35,2966.7,Card
+COL0072,2026-08-27,EEE,North,USB-C Hub,Computer Accessories,7,1274.99,8924.93,Card
+COL0073,2026-01-11,MECH,West,Study Planner,Stationery,7,323.21,2262.47,Net Banking
+COL0074,2026-07-19,EEE,South,Smart Study Lamp,Study Accessories,6,862.79,5176.74,Net Banking
+COL0075,2026-01-15,EEE,East,Water Bottle,Student Essentials,5,591.31,2956.55,Net Banking
+COL0076,2026-01-14,EEE,North,Mechanical Pencil Set,Stationery,8,194.02,1552.16,UPI
+COL0077,2026-04-04,CSE,East,Study Planner,Stationery,3,320.94,962.82,Net Banking
+COL0078,2026-06-22,EEE,East,Bluetooth Speaker,Electronics,4,1584.51,6338.04,Net Banking
+COL0079,2026-01-27,ECE,South,Calculator FX,Study Accessories,2,794.26,1588.52,UPI
+COL0080,2026-04-13,CSE,South,Wireless Mouse,Computer Accessories,1,707.36,707.36,Card
+COL0081,2026-04-22,EEE,East,Notebook Pro,Stationery,8,257.44,2059.52,Cash
+COL0082,2026-03-25,ECE,North,Mechanical Pencil Set,Stationery,2,188.94,377.88,UPI
+COL0083,2026-04-12,CSE,South,Desk Organizer,Study Accessories,7,439.72,3078.04,UPI
+COL0084,2026-01-22,ECE,West,Desk Organizer,Study Accessories,2,475.6,951.2,Cash
+COL0085,2026-08-04,EEE,North,USB-C Hub,Computer Accessories,6,1172.39,7034.34,Net Banking
+COL0086,2026-08-11,AI&DS,East,Power Bank,Electronics,8,1457.0,11656.0,Net Banking
+COL0087,2026-05-18,ECE,South,Pen Pack,Stationery,7,137.4,961.8,UPI
+COL0088,2026-08-26,MECH,West,Calculator FX,Study Accessories,8,758.07,6064.56,Cash
+COL0089,2026-04-04,EEE,South,Smart Study Lamp,Study Accessories,8,962.1,7696.8,Cash
+COL0090,2026-05-22,MECH,North,Calculator FX,Study Accessories,6,763.79,4582.74,Card
+COL0091,2026-09-08,MECH,South,USB-C Hub,Computer Accessories,4,1356.18,5424.72,Net Banking
+COL0092,2026-02-17,ECE,South,Webcam HD,Computer Accessories,8,2327.83,18622.64,Net Banking
+COL0093,2026-07-08,EEE,East,Water Bottle,Student Essentials,5,618.64,3093.2,Net Banking
+COL0094,2026-08-21,ECE,East,LED Desk Clock,Study Accessories,6,532.73,3196.38,Cash
+COL0095,2026-06-11,CSE,South,Water Bottle,Student Essentials,2,625.51,1251.02,Card
+COL0096,2026-09-26,MECH,East,College Backpack,Student Essentials,8,1431.99,11455.92,UPI
+COL0097,2026-04-02,ECE,North,College Backpack,Student Essentials,5,1417.3,7086.5,Card
+COL0098,2026-05-30,CIVIL,South,Calculator FX,Study Accessories,1,874.79,874.79,Net Banking
+COL0099,2026-08-29,EEE,West,Laptop Stand,Computer Accessories,1,1216.76,1216.76,Cash
+COL0100,2026-09-02,CSE,North,Mechanical Pencil Set,Stationery,1,170.14,170.14,Net Banking
+COL0101,2026-01-28,AI&DS,South,Webcam HD,Computer Accessories,2,2232.87,4465.74,Cash
+COL0102,2026-08-02,MECH,South,USB-C Hub,Computer Accessories,4,1199.87,4799.48,Net Banking
+COL0103,2026-08-08,ECE,North,Pen Pack,Stationery,8,123.77,990.16,UPI
+COL0104,2026-02-11,AI&DS,South,College Backpack,Student Essentials,4,1428.44,5713.76,Card
+COL0105,2026-07-29,EEE,West,LED Desk Clock,Study Accessories,2,511.29,1022.58,Cash
+COL0106,2026-05-25,CIVIL,West,Wireless Mouse,Computer Accessories,4,621.5,2486.0,UPI
+COL0107,2026-04-12,EEE,North,Water Bottle,Student Essentials,5,633.48,3167.4,Card
+COL0108,2026-02-06,CSE,South,Notebook Pro,Stationery,5,265.27,1326.35,Cash
+COL0109,2026-08-28,CIVIL,East,Mini Whiteboard,Study Accessories,5,690.49,3452.45,Net Banking
+COL0110,2026-01-21,EEE,East,Calculator FX,Study Accessories,8,789.05,6312.4,Cash
+COL0111,2026-01-11,CIVIL,East,Smart Study Lamp,Study Accessories,2,850.26,1700.52,UPI
+COL0112,2026-08-15,ECE,South,Mechanical Pencil Set,Stationery,8,179.68,1437.44,Net Banking
+COL0113,2026-07-29,ECE,East,Webcam HD,Computer Accessories,2,2185.81,4371.62,UPI
+COL0114,2026-09-11,ECE,West,Mechanical Pencil Set,Stationery,6,175.84,1055.04,UPI
+COL0115,2026-06-15,CSE,West,Pen Pack,Stationery,2,124.21,248.42,UPI
+COL0116,2026-04-07,MECH,East,LED Desk Clock,Study Accessories,8,539.47,4315.76,Net Banking
+COL0117,2026-03-09,ECE,West,Pen Pack,Stationery,1,121.35,121.35,Net Banking
+COL0118,2026-05-03,CIVIL,South,Laptop Stand,Computer Accessories,1,1312.46,1312.46,Cash
+COL0119,2026-02-17,AI&DS,North,LED Desk Clock,Study Accessories,1,554.74,554.74,Net Banking
+COL0120,2026-05-30,MECH,East,Laptop Stand,Computer Accessories,3,1198.61,3595.83,Net Banking
+COL0121,2026-03-16,EEE,South,Webcam HD,Computer Accessories,8,2086.29,16690.32,Card
+COL0122,2026-08-01,ECE,East,USB-C Hub,Computer Accessories,5,1369.84,6849.2,UPI
+COL0123,2026-09-08,AI&DS,West,Desk Organizer,Study Accessories,5,479.31,2396.55,Net Banking
+COL0124,2026-07-13,EEE,East,Power Bank,Electronics,6,1413.53,8481.18,Card
+COL0125,2026-07-30,CSE,East,Water Bottle,Student Essentials,7,567.08,3969.56,Net Banking
+COL0126,2026-03-19,EEE,North,Earbuds Lite,Electronics,7,2084.5,14591.5,Card
+COL0127,2026-08-14,CSE,West,Keyboard Slim,Computer Accessories,6,1072.87,6437.22,UPI
+COL0128,2026-03-21,CSE,West,Notebook Pro,Stationery,7,267.47,1872.29,Cash
+COL0129,2026-06-18,CIVIL,West,Bluetooth Speaker,Electronics,7,1646.92,11528.44,Cash
+COL0130,2026-05-01,CIVIL,East,Webcam HD,Computer Accessories,1,2250.66,2250.66,Card
+COL0131,2026-02-21,EEE,South,USB-C Hub,Computer Accessories,7,1423.27,9962.89,Cash
+COL0132,2026-01-29,ECE,East,Smart Study Lamp,Study Accessories,1,867.42,867.42,Cash
+COL0133,2026-07-30,MECH,South,Study Planner,Stationery,3,283.7,851.1,Card
+COL0134,2026-07-15,MECH,South,Mechanical Pencil Set,Stationery,2,182.92,365.84,Net Banking
+COL0135,2026-05-11,EEE,East,File Folder Set,Stationery,3,188.34,565.02,UPI
+COL0136,2026-03-22,CSE,West,Pen Pack,Stationery,5,133.58,667.9,Cash
+COL0137,2026-08-06,CIVIL,East,File Folder Set,Stationery,5,204.53,1022.65,Net Banking
+COL0138,2026-09-05,CSE,South,Desk Organizer,Study Accessories,4,493.84,1975.36,Net Banking
+COL0139,2026-06-01,CSE,West,File Folder Set,Stationery,6,201.98,1211.88,Cash
+COL0140,2026-09-12,ECE,South,Smart Study Lamp,Study Accessories,1,972.83,972.83,Cash
+COL0141,2026-03-12,CIVIL,North,Water Bottle,Student Essentials,4,613.48,2453.92,UPI
+COL0142,2026-07-06,CIVIL,South,Desk Organizer,Study Accessories,8,407.1,3256.8,UPI
+COL0143,2026-03-31,AI&DS,South,Desk Organizer,Study Accessories,6,471.22,2827.32,Cash
+COL0144,2026-05-12,EEE,East,Keyboard Slim,Computer Accessories,5,1065.03,5325.15,Cash
+COL0145,2026-03-14,AI&DS,West,Laptop Stand,Computer Accessories,8,1310.0,10480.0,Cash
+COL0146,2026-03-05,EEE,East,USB-C Hub,Computer Accessories,7,1172.72,8209.04,Cash
+COL0147,2026-07-10,CSE,South,File Folder Set,Stationery,7,211.83,1482.81,Net Banking
+COL0148,2026-04-24,CIVIL,North,Smart Study Lamp,Study Accessories,6,973.66,5841.96,Net Banking
+COL0149,2026-01-24,CSE,East,Desk Organizer,Study Accessories,7,414.58,2902.06,Net Banking
+COL0150,2026-03-11,EEE,West,Laptop Stand,Computer Accessories,2,1135.41,2270.82,Cash
+COL0151,2026-03-21,EEE,North,LED Desk Clock,Study Accessories,7,558.59,3910.13,Net Banking
+COL0152,2026-05-24,CSE,East,Mini Whiteboard,Study Accessories,7,760.38,5322.66,Card
+COL0153,2026-07-05,CSE,East,Pen Pack,Stationery,8,140.62,1124.96,Cash
+COL0154,2026-03-04,EEE,North,Wireless Mouse,Computer Accessories,7,619.91,4339.37,Card
+COL0155,2026-06-20,AI&DS,South,Mini Whiteboard,Study Accessories,1,636.17,636.17,Card
+COL0156,2026-04-30,ECE,South,USB-C Hub,Computer Accessories,4,1321.44,5285.76,UPI
+COL0157,2026-05-09,AI&DS,North,Calculator FX,Study Accessories,3,876.91,2630.73,UPI
+COL0158,2026-05-02,MECH,East,Notebook Pro,Stationery,1,241.94,241.94,UPI
+COL0159,2026-08-04,MECH,North,Mechanical Pencil Set,Stationery,5,162.98,814.9,UPI
+COL0160,2026-09-20,MECH,North,Webcam HD,Computer Accessories,8,2321.27,18570.16,Net Banking
+COL0161,2026-01-23,CIVIL,East,Keyboard Slim,Computer Accessories,4,1087.99,4351.96,Net Banking
+COL0162,2026-07-25,EEE,North,Smart Study Lamp,Study Accessories,1,988.65,988.65,Net Banking
+COL0163,2026-06-14,MECH,South,Pen Pack,Stationery,2,139.3,278.6,UPI
+COL0164,2026-06-16,EEE,East,Notebook Pro,Stationery,5,255.19,1275.95,Net Banking
+COL0165,2026-02-28,CIVIL,South,Keyboard Slim,Computer Accessories,7,918.92,6432.44,Net Banking
+COL0166,2026-08-21,EEE,West,Pen Pack,Stationery,4,126.78,507.12,UPI
+COL0167,2026-05-11,ECE,South,Bluetooth Speaker,Electronics,7,1539.05,10773.35,Net Banking
+COL0168,2026-02-17,EEE,North,USB-C Hub,Computer Accessories,2,1385.19,2770.38,Cash
+COL0169,2026-06-18,CIVIL,North,Notebook Pro,Stationery,1,253.31,253.31,Net Banking
+COL0170,2026-01-27,ECE,East,Power Bank,Electronics,7,1501.99,10513.93,Cash
+COL0171,2026-09-04,AI&DS,North,Laptop Stand,Computer Accessories,4,1116.2,4464.8,Cash
+COL0172,2026-05-23,MECH,South,LED Desk Clock,Study Accessories,6,506.71,3040.26,Net Banking
+COL0173,2026-05-17,CSE,South,LED Desk Clock,Study Accessories,1,560.97,560.97,Cash
+COL0174,2026-04-03,AI&DS,West,Desk Organizer,Study Accessories,6,435.62,2613.72,UPI
+COL0175,2026-04-21,EEE,West,Notebook Pro,Stationery,1,228.67,228.67,Net Banking
+COL0176,2026-06-16,MECH,North,Bluetooth Speaker,Electronics,3,1557.44,4672.32,UPI
+COL0177,2026-01-26,CIVIL,North,Notebook Pro,Stationery,3,261.67,785.01,Cash
+COL0178,2026-08-15,EEE,East,Pen Pack,Stationery,7,128.63,900.41,Card
+COL0179,2026-02-26,ECE,West,Keyboard Slim,Computer Accessories,2,968.07,1936.14,Cash
+COL0180,2026-01-29,CSE,South,Wireless Mouse,Computer Accessories,4,635.41,2541.64,Cash
+COL0181,2026-05-29,ECE,North,College Backpack,Student Essentials,3,1578.2,4734.6,UPI
+COL0182,2026-07-14,MECH,South,Webcam HD,Computer Accessories,7,2056.37,14394.59,Cash
+COL0183,2026-01-22,EEE,North,USB-C Hub,Computer Accessories,7,1392.99,9750.93,Net Banking
+COL0184,2026-07-27,CIVIL,West,USB-C Hub,Computer Accessories,6,1318.68,7912.08,Cash
+COL0185,2026-06-16,AI&DS,West,Laptop Stand,Computer Accessories,7,1084.1,7588.7,Cash
+COL0186,2026-05-05,EEE,West,USB-C Hub,Computer Accessories,7,1388.5,9719.5,UPI
+COL0187,2026-04-24,ECE,South,Earbuds Lite,Electronics,5,1992.36,9961.8,UPI
+COL0188,2026-04-10,ECE,East,Keyboard Slim,Computer Accessories,2,1005.11,2010.22,Card
+COL0189,2026-04-12,AI&DS,South,Water Bottle,Student Essentials,2,556.64,1113.28,UPI
+COL0190,2026-08-18,CIVIL,East,Mechanical Pencil Set,Stationery,8,177.71,1421.68,Cash
+COL0191,2026-08-15,CIVIL,East,Notebook Pro,Stationery,8,227.5,1820.0,Cash
+COL0192,2026-02-07,ECE,West,File Folder Set,Stationery,1,193.11,193.11,Net Banking
+COL0193,2026-05-27,CSE,North,Wireless Mouse,Computer Accessories,1,631.96,631.96,Net Banking
+COL0194,2026-04-07,ECE,West,Pen Pack,Stationery,1,127.7,127.7,Card
+COL0195,2026-06-25,CIVIL,North,Wireless Mouse,Computer Accessories,8,597.53,4780.24,Card
+COL0196,2026-08-13,MECH,South,Wireless Mouse,Computer Accessories,4,675.95,2703.8,Cash
+COL0197,2026-06-23,CIVIL,North,Power Bank,Electronics,5,1367.5,6837.5,Cash
+COL0198,2026-07-17,ECE,East,USB-C Hub,Computer Accessories,6,1193.65,7161.9,Card
+COL0199,2026-03-14,ECE,East,Bluetooth Speaker,Electronics,2,1625.46,3250.92,Net Banking
+COL0200,2026-07-12,CIVIL,East,Notebook Pro,Stationery,2,239.52,479.04,Card
+COL0201,2026-08-05,MECH,East,Keyboard Slim,Computer Accessories,2,1028.18,2056.36,UPI
+COL0202,2026-04-20,ECE,West,Power Bank,Electronics,5,1309.54,6547.7,Card
+COL0203,2026-06-01,CSE,North,Water Bottle,Student Essentials,3,557.66,1672.98,Cash
+COL0204,2026-03-20,AI&DS,South,Mini Whiteboard,Study Accessories,3,712.6,2137.8,Card
+COL0205,2026-05-02,EEE,East,Pen Pack,Stationery,1,126.7,126.7,Net Banking
+COL0206,2026-08-29,AI&DS,East,Water Bottle,Student Essentials,4,576.17,2304.68,Net Banking
+COL0207,2026-09-15,MECH,West,Pen Pack,Stationery,5,136.18,680.9,Card
+COL0208,2026-01-27,CIVIL,West,College Backpack,Student Essentials,3,1610.83,4832.49,Cash
+COL0209,2026-09-22,CSE,East,LED Desk Clock,Study Accessories,2,572.21,1144.42,UPI
+COL0210,2026-09-20,AI&DS,West,Mechanical Pencil Set,Stationery,5,177.19,885.95,UPI
+COL0211,2026-01-14,EEE,North,Water Bottle,Student Essentials,8,645.08,5160.64,Net Banking
+COL0212,2026-02-11,ECE,South,Keyboard Slim,Computer Accessories,6,946.21,5677.26,UPI
+COL0213,2026-06-21,AI&DS,South,Bluetooth Speaker,Electronics,2,1707.47,3414.94,UPI
+COL0214,2026-03-13,CIVIL,West,Desk Organizer,Study Accessories,8,466.61,3732.88,Net Banking
+COL0215,2026-01-10,ECE,South,Mini Whiteboard,Study Accessories,1,755.74,755.74,Card
+COL0216,2026-05-28,AI&DS,East,LED Desk Clock,Study Accessories,7,506.31,3544.17,UPI
+COL0217,2026-08-23,CSE,North,Wireless Mouse,Computer Accessories,4,638.59,2554.36,Net Banking
+COL0218,2026-05-04,CIVIL,South,Mini Whiteboard,Study Accessories,1,717.45,717.45,Cash
+COL0219,2026-05-04,MECH,West,Study Planner,Stationery,1,305.87,305.87,Card
+COL0220,2026-09-17,MECH,North,USB-C Hub,Computer Accessories,6,1186.68,7120.08,Net Banking
+COL0221,2026-07-11,ECE,North,Webcam HD,Computer Accessories,1,2258.67,2258.67,Cash
+COL0222,2026-02-23,MECH,East,USB-C Hub,Computer Accessories,6,1231.74,7390.44,Card
+COL0223,2026-03-31,CIVIL,West,Wireless Mouse,Computer Accessories,6,654.97,3929.82,Net Banking
+COL0224,2026-08-23,CSE,East,Mechanical Pencil Set,Stationery,3,163.36,490.08,Card
+COL0225,2026-06-11,ECE,West,Wireless Mouse,Computer Accessories,4,699.08,2796.32,Net Banking
+COL0226,2026-04-08,ECE,East,Calculator FX,Study Accessories,1,839.48,839.48,UPI
+COL0227,2026-07-08,EEE,West,Bluetooth Speaker,Electronics,5,1478.91,7394.55,Net Banking
+COL0228,2026-09-12,CIVIL,West,Earbuds Lite,Electronics,6,2078.92,12473.52,Cash
+COL0229,2026-08-06,CSE,West,Keyboard Slim,Computer Accessories,5,1059.17,5295.85,Card
+COL0230,2026-02-10,ECE,East,LED Desk Clock,Study Accessories,5,529.37,2646.85,Cash
+COL0231,2026-08-16,ECE,West,Pen Pack,Stationery,7,120.4,842.8,UPI
+COL0232,2026-01-30,CSE,West,Power Bank,Electronics,7,1335.92,9351.44,Cash
+COL0233,2026-03-15,MECH,West,Keyboard Slim,Computer Accessories,3,1089.47,3268.41,UPI
+COL0234,2026-07-07,ECE,West,Notebook Pro,Stationery,2,235.85,471.7,UPI
+COL0235,2026-07-09,ECE,West,Mini Whiteboard,Study Accessories,3,724.03,2172.09,UPI
+COL0236,2026-07-23,ECE,East,File Folder Set,Stationery,3,200.17,600.51,Card
+COL0237,2026-09-13,MECH,West,Laptop Stand,Computer Accessories,1,1255.51,1255.51,UPI
+COL0238,2026-04-20,MECH,East,Calculator FX,Study Accessories,5,831.61,4158.05,Net Banking
+COL0239,2026-02-07,EEE,South,College Backpack,Student Essentials,2,1389.79,2779.58,Net Banking
+COL0240,2026-02-03,MECH,East,USB-C Hub,Computer Accessories,6,1342.6,8055.6,Cash
+COL0241,2026-09-18,AI&DS,North,Mechanical Pencil Set,Stationery,3,189.51,568.53,Card
+COL0242,2026-01-14,ECE,East,Notebook Pro,Stationery,4,263.46,1053.84,Net Banking
+COL0243,2026-02-14,CSE,East,LED Desk Clock,Study Accessories,3,561.29,1683.87,Net Banking
+COL0244,2026-02-07,AI&DS,East,Webcam HD,Computer Accessories,7,2317.38,16221.66,UPI
+COL0245,2026-06-26,AI&DS,South,Pen Pack,Stationery,8,133.65,1069.2,Card
+COL0246,2026-09-23,AI&DS,East,Study Planner,Stationery,1,318.82,318.82,Card
+COL0247,2026-04-26,ECE,East,Mechanical Pencil Set,Stationery,6,194.56,1167.36,UPI
+COL0248,2026-05-21,AI&DS,East,Calculator FX,Study Accessories,4,820.58,3282.32,UPI
+COL0249,2026-03-20,AI&DS,East,Keyboard Slim,Computer Accessories,3,1017.34,3052.02,UPI
+COL0250,2026-05-16,CIVIL,South,Smart Study Lamp,Study Accessories,2,817.27,1634.54,Net Banking
+COL0251,2026-05-29,CIVIL,East,Mini Whiteboard,Study Accessories,1,698.73,698.73,Net Banking
+COL0252,2026-02-07,CIVIL,North,Water Bottle,Student Essentials,7,574.73,4023.11,Card
+COL0253,2026-04-15,ECE,South,Pen Pack,Stationery,7,128.59,900.13,Cash
+COL0254,2026-03-08,ECE,North,Bluetooth Speaker,Electronics,6,1751.02,10506.12,Cash
+COL0255,2026-08-19,AI&DS,South,Water Bottle,Student Essentials,8,553.78,4430.24,UPI
+COL0256,2026-08-03,AI&DS,South,Wireless Mouse,Computer Accessories,5,706.81,3534.05,Cash
+COL0257,2026-03-23,EEE,West,File Folder Set,Stationery,6,186.66,1119.96,Net Banking
+COL0258,2026-07-21,MECH,West,Desk Organizer,Study Accessories,8,406.18,3249.44,Card
+COL0259,2026-05-25,EEE,West,College Backpack,Student Essentials,6,1363.69,8182.14,Cash
+COL0260,2026-08-09,AI&DS,East,LED Desk Clock,Study Accessories,1,587.12,587.12,Cash
+COL0261,2026-01-27,MECH,South,Earbuds Lite,Electronics,6,1726.28,10357.68,Cash
+COL0262,2026-09-16,EEE,East,LED Desk Clock,Study Accessories,5,502.17,2510.85,UPI
+COL0263,2026-06-23,MECH,East,Notebook Pro,Stationery,2,243.72,487.44,Card
+COL0264,2026-01-24,CSE,South,College Backpack,Student Essentials,7,1499.02,10493.14,Cash
+COL0265,2026-09-21,AI&DS,East,Webcam HD,Computer Accessories,8,2044.6,16356.8,Cash
+COL0266,2026-06-03,MECH,East,Mechanical Pencil Set,Stationery,7,196.56,1375.92,Net Banking
+COL0267,2026-01-09,ECE,East,File Folder Set,Stationery,5,198.0,990.0,UPI
+COL0268,2026-01-14,MECH,West,Study Planner,Stationery,5,316.75,1583.75,Cash
+COL0269,2026-09-03,AI&DS,West,File Folder Set,Stationery,4,207.81,831.24,Card
+COL0270,2026-02-26,AI&DS,North,Water Bottle,Student Essentials,1,607.69,607.69,Net Banking
+COL0271,2026-04-15,EEE,West,Bluetooth Speaker,Electronics,7,1487.53,10412.71,UPI
+COL0272,2026-09-02,MECH,West,Notebook Pro,Stationery,4,252.03,1008.12,Cash
+COL0273,2026-06-25,MECH,East,Mechanical Pencil Set,Stationery,8,193.75,1550.0,Cash
+COL0274,2026-05-07,ECE,East,Mini Whiteboard,Study Accessories,8,655.98,5247.84,Card
+COL0275,2026-09-08,ECE,West,Desk Organizer,Study Accessories,5,467.4,2337.0,Cash
+COL0276,2026-07-14,EEE,East,LED Desk Clock,Study Accessories,5,525.7,2628.5,Card
+COL0277,2026-02-10,ECE,West,Desk Organizer,Study Accessories,1,429.93,429.93,Cash
+COL0278,2026-05-19,MECH,East,Webcam HD,Computer Accessories,4,2067.97,8271.88,Card
+COL0279,2026-04-26,CIVIL,South,Laptop Stand,Computer Accessories,4,1137.24,4548.96,UPI
+COL0280,2026-08-30,CSE,South,Laptop Stand,Computer Accessories,7,1158.3,8108.1,UPI
+COL0281,2026-09-01,EEE,South,LED Desk Clock,Study Accessories,3,538.78,1616.34,Cash
+COL0282,2026-02-15,CIVIL,South,Bluetooth Speaker,Electronics,5,1645.66,8228.3,UPI
+COL0283,2026-04-01,CSE,West,Mechanical Pencil Set,Stationery,7,192.68,1348.76,Net Banking
+COL0284,2026-01-05,ECE,North,Mechanical Pencil Set,Stationery,5,192.49,962.45,Cash
+COL0285,2026-09-26,EEE,South,Desk Organizer,Study Accessories,8,492.92,3943.36,Net Banking
+COL0286,2026-06-19,AI&DS,West,Calculator FX,Study Accessories,4,848.35,3393.4,Cash
+COL0287,2026-06-01,MECH,South,Mechanical Pencil Set,Stationery,1,187.47,187.47,Card
+COL0288,2026-09-21,ECE,North,Mini Whiteboard,Study Accessories,7,744.71,5212.97,Net Banking
+COL0289,2026-09-02,ECE,South,Laptop Stand,Computer Accessories,3,1314.51,3943.53,UPI
+COL0290,2026-05-17,ECE,East,Calculator FX,Study Accessories,7,756.74,5297.18,UPI
+COL0291,2026-02-01,CIVIL,North,Calculator FX,Study Accessories,6,829.8,4978.8,Net Banking
+COL0292,2026-09-15,CIVIL,East,Desk Organizer,Study Accessories,3,440.51,1321.53,UPI
+COL0293,2026-04-23,AI&DS,West,Desk Organizer,Study Accessories,6,459.29,2755.74,Card
+COL0294,2026-08-30,MECH,South,Pen Pack,Stationery,6,126.83,760.98,Card
+COL0295,2026-07-05,CSE,North,Mini Whiteboard,Study Accessories,2,702.57,1405.14,UPI
+COL0296,2026-03-18,AI&DS,East,LED Desk Clock,Study Accessories,4,556.98,2227.92,Net Banking
+COL0297,2026-09-08,CSE,West,Laptop Stand,Computer Accessories,4,1251.02,5004.08,UPI
+COL0298,2026-08-22,MECH,North,Pen Pack,Stationery,3,129.34,388.02,Net Banking
+COL0299,2026-01-02,CIVIL,South,Desk Organizer,Study Accessories,1,439.66,439.66,UPI
+COL0300,2026-02-02,MECH,North,Wireless Mouse,Computer Accessories,7,628.82,4401.74,UPI
+COL0301,2026-04-03,AI&DS,West,Webcam HD,Computer Accessories,1,2105.36,2105.36,Cash
+COL0302,2026-07-13,EEE,North,Earbuds Lite,Electronics,8,2039.38,16315.04,Card
+COL0303,2026-07-21,MECH,South,Power Bank,Electronics,2,1309.04,2618.08,Card
+COL0304,2026-08-26,CIVIL,West,Smart Study Lamp,Study Accessories,1,985.03,985.03,Net Banking
+COL0305,2026-03-21,ECE,South,Water Bottle,Student Essentials,4,594.28,2377.12,UPI
+COL0306,2026-01-09,AI&DS,South,Wireless Mouse,Computer Accessories,7,663.92,4647.44,UPI
+COL0307,2026-01-25,AI&DS,North,Laptop Stand,Computer Accessories,1,1186.16,1186.16,Net Banking
+COL0308,2026-01-29,AI&DS,East,Pen Pack,Stationery,4,130.03,520.12,Card
+COL0309,2026-06-14,AI&DS,East,File Folder Set,Stationery,6,202.08,1212.48,Card
+COL0310,2026-05-21,CSE,South,Keyboard Slim,Computer Accessories,4,981.73,3926.92,Net Banking
+COL0311,2026-06-26,CIVIL,West,LED Desk Clock,Study Accessories,8,499.25,3994.0,Cash
+COL0312,2026-07-12,AI&DS,West,Study Planner,Stationery,7,278.02,1946.14,Card
+COL0313,2026-03-15,EEE,North,Water Bottle,Student Essentials,5,641.83,3209.15,Net Banking
+COL0314,2026-05-11,AI&DS,East,Study Planner,Stationery,3,292.33,876.99,UPI
+COL0315,2026-04-08,CSE,East,Pen Pack,Stationery,6,118.49,710.94,Net Banking
+COL0316,2026-04-07,MECH,South,Mini Whiteboard,Study Accessories,1,751.23,751.23,Net Banking
+COL0317,2026-01-08,AI&DS,South,College Backpack,Student Essentials,6,1440.0,8640.0,UPI
+COL0318,2026-04-15,EEE,South,Webcam HD,Computer Accessories,4,2285.04,9140.16,Cash
+COL0319,2026-07-03,ECE,East,Desk Organizer,Study Accessories,7,445.97,3121.79,Cash
+COL0320,2026-08-29,ECE,South,Keyboard Slim,Computer Accessories,8,992.21,7937.68,Cash
+COL0321,2026-04-24,CIVIL,South,Bluetooth Speaker,Electronics,7,1453.72,10176.04,UPI
+COL0322,2026-04-11,ECE,South,Calculator FX,Study Accessories,7,766.27,5363.89,Net Banking
+COL0323,2026-06-22,ECE,West,File Folder Set,Stationery,4,198.97,795.88,Net Banking
+COL0324,2026-06-30,AI&DS,South,Pen Pack,Stationery,3,135.01,405.03,Net Banking
+COL0325,2026-02-08,CIVIL,North,Mechanical Pencil Set,Stationery,1,179.86,179.86,UPI
+COL0326,2026-04-29,CSE,South,Study Planner,Stationery,3,319.48,958.44,UPI
+COL0327,2026-09-05,CIVIL,West,College Backpack,Student Essentials,8,1460.99,11687.92,UPI
+COL0328,2026-05-21,MECH,East,Smart Study Lamp,Study Accessories,7,811.23,5678.61,UPI
+COL0329,2026-04-02,CSE,North,Keyboard Slim,Computer Accessories,7,1060.17,7421.19,Card
+COL0330,2026-05-10,ECE,East,Water Bottle,Student Essentials,4,613.35,2453.4,Net Banking
+COL0331,2026-08-24,MECH,South,USB-C Hub,Computer Accessories,6,1418.33,8509.98,Card
+COL0332,2026-01-17,CSE,West,Desk Organizer,Study Accessories,2,462.81,925.62,Net Banking
+COL0333,2026-01-05,CIVIL,South,Earbuds Lite,Electronics,8,1730.41,13843.28,UPI
+COL0334,2026-06-19,MECH,North,Webcam HD,Computer Accessories,7,2262.73,15839.11,UPI
+COL0335,2026-09-01,ECE,North,Water Bottle,Student Essentials,4,647.07,2588.28,UPI
+COL0336,2026-06-11,CSE,South,Calculator FX,Study Accessories,1,747.76,747.76,Card
+COL0337,2026-05-04,MECH,West,Earbuds Lite,Electronics,2,1822.77,3645.54,Cash
+COL0338,2026-02-10,MECH,East,Earbuds Lite,Electronics,3,2009.33,6027.99,UPI
+COL0339,2026-02-08,ECE,West,Laptop Stand,Computer Accessories,7,1134.77,7943.39,Cash
+COL0340,2026-08-19,EEE,South,Smart Study Lamp,Study Accessories,5,949.98,4749.9,Cash
+COL0341,2026-07-14,CSE,East,LED Desk Clock,Study Accessories,7,541.52,3790.64,Card
+COL0342,2026-07-14,CIVIL,South,USB-C Hub,Computer Accessories,2,1238.72,2477.44,Net Banking
+COL0343,2026-01-03,ECE,West,Bluetooth Speaker,Electronics,6,1473.17,8839.02,Cash
+COL0344,2026-04-06,EEE,West,Calculator FX,Study Accessories,2,740.27,1480.54,Net Banking
+COL0345,2026-02-17,MECH,East,Laptop Stand,Computer Accessories,1,1100.59,1100.59,Net Banking
+COL0346,2026-02-13,CIVIL,South,Smart Study Lamp,Study Accessories,5,883.5,4417.5,Card
+COL0347,2026-06-04,ECE,West,Earbuds Lite,Electronics,3,1761.83,5285.49,Card
+COL0348,2026-08-04,ECE,West,USB-C Hub,Computer Accessories,3,1282.03,3846.09,UPI
+COL0349,2026-09-11,MECH,South,Power Bank,Electronics,5,1523.29,7616.45,Net Banking
+COL0350,2026-07-22,ECE,West,Laptop Stand,Computer Accessories,3,1152.16,3456.48,Cash
+COL0351,2026-03-11,ECE,East,Pen Pack,Stationery,6,127.21,763.26,Card
+COL0352,2026-07-23,ECE,East,Webcam HD,Computer Accessories,6,2057.22,12343.32,Net Banking
+COL0353,2026-05-24,EEE,East,File Folder Set,Stationery,4,192.07,768.28,UPI
+COL0354,2026-04-03,CIVIL,North,File Folder Set,Stationery,4,202.67,810.68,Net Banking
+COL0355,2026-02-05,EEE,West,College Backpack,Student Essentials,8,1588.25,12706.0,Card
+COL0356,2026-03-20,CIVIL,West,Desk Organizer,Study Accessories,4,426.79,1707.16,Net Banking
+COL0357,2026-09-03,MECH,West,USB-C Hub,Computer Accessories,8,1426.48,11411.84,Net Banking
+COL0358,2026-07-04,CIVIL,North,LED Desk Clock,Study Accessories,1,580.92,580.92,UPI
+COL0359,2026-01-23,MECH,West,Water Bottle,Student Essentials,6,559.03,3354.18,Cash
+COL0360,2026-05-13,AI&DS,South,Study Planner,Stationery,2,269.73,539.46,Net Banking
+COL0361,2026-09-14,AI&DS,East,Power Bank,Electronics,7,1388.67,9720.69,UPI
+COL0362,2026-02-13,CSE,South,Webcam HD,Computer Accessories,2,2109.03,4218.06,Cash
+COL0363,2026-04-16,MECH,West,Desk Organizer,Study Accessories,6,444.99,2669.94,Cash
+COL0364,2026-08-20,ECE,North,Webcam HD,Computer Accessories,2,2171.81,4343.62,Cash
+COL0365,2026-06-25,CIVIL,North,Wireless Mouse,Computer Accessories,2,587.03,1174.06,Card
+COL0366,2026-06-19,MECH,West,Water Bottle,Student Essentials,3,605.22,1815.66,Net Banking
+COL0367,2026-04-06,CIVIL,West,Water Bottle,Student Essentials,7,614.55,4301.85,Net Banking
+COL0368,2026-08-08,EEE,North,Smart Study Lamp,Study Accessories,4,889.93,3559.72,Card
+COL0369,2026-02-02,MECH,North,College Backpack,Student Essentials,5,1574.65,7873.25,Card
+COL0370,2026-02-28,ECE,West,Power Bank,Electronics,6,1314.24,7885.44,Cash
+COL0371,2026-02-28,ECE,East,Mini Whiteboard,Study Accessories,7,714.56,5001.92,Net Banking
+COL0372,2026-06-02,MECH,North,Mini Whiteboard,Study Accessories,3,742.86,2228.58,Card
+COL0373,2026-03-01,AI&DS,East,Bluetooth Speaker,Electronics,2,1515.4,3030.8,Card
+COL0374,2026-03-12,MECH,West,Keyboard Slim,Computer Accessories,7,982.66,6878.62,Net Banking
+COL0375,2026-03-30,MECH,South,Mechanical Pencil Set,Stationery,8,183.85,1470.8,Net Banking
+COL0376,2026-08-19,MECH,North,Desk Organizer,Study Accessories,3,420.9,1262.7,Cash
+COL0377,2026-07-16,MECH,West,Smart Study Lamp,Study Accessories,8,833.65,6669.2,Net Banking
+COL0378,2026-08-16,EEE,South,Webcam HD,Computer Accessories,7,2291.42,16039.94,UPI
+COL0379,2026-04-23,ECE,North,File Folder Set,Stationery,1,210.78,210.78,Cash
+COL0380,2026-08-23,MECH,West,Water Bottle,Student Essentials,5,559.25,2796.25,UPI
+COL0381,2026-07-07,MECH,North,File Folder Set,Stationery,2,189.76,379.52,Net Banking
+COL0382,2026-02-22,CIVIL,South,LED Desk Clock,Study Accessories,4,602.78,2411.12,Cash
+COL0383,2026-02-14,EEE,North,Wireless Mouse,Computer Accessories,8,618.21,4945.68,Card
+COL0384,2026-08-08,AI&DS,South,College Backpack,Student Essentials,6,1607.24,9643.44,Card
+COL0385,2026-05-24,MECH,South,College Backpack,Student Essentials,1,1520.01,1520.01,Cash
+COL0386,2026-09-21,CIVIL,North,Desk Organizer,Study Accessories,5,455.53,2277.65,Card
+COL0387,2026-03-06,CIVIL,South,Study Planner,Stationery,1,328.45,328.45,Card
+COL0388,2026-07-21,EEE,South,Notebook Pro,Stationery,6,265.36,1592.16,Cash
+COL0389,2026-02-17,EEE,East,Study Planner,Stationery,7,296.13,2072.91,Cash
+COL0390,2026-01-02,CIVIL,North,Pen Pack,Stationery,8,124.54,996.32,Net Banking
+COL0391,2026-07-23,AI&DS,West,Power Bank,Electronics,2,1481.73,2963.46,Card
+COL0392,2026-05-26,ECE,South,Webcam HD,Computer Accessories,5,2121.1,10605.5,Net Banking
+COL0393,2026-08-24,CSE,North,Bluetooth Speaker,Electronics,1,1453.79,1453.79,Card
+COL0394,2026-08-08,AI&DS,South,Pen Pack,Stationery,8,116.12,928.96,Cash
+COL0395,2026-07-04,ECE,North,Mechanical Pencil Set,Stationery,5,164.44,822.2,Cash
+COL0396,2026-06-06,CIVIL,South,Mechanical Pencil Set,Stationery,1,175.29,175.29,Net Banking
+COL0397,2026-09-02,CSE,South,USB-C Hub,Computer Accessories,2,1169.38,2338.76,Card
+COL0398,2026-06-25,CSE,West,Keyboard Slim,Computer Accessories,8,900.96,7207.68,Card
+COL0399,2026-02-15,CIVIL,North,Webcam HD,Computer Accessories,2,2079.79,4159.58,UPI
+COL0400,2026-03-12,EEE,South,Bluetooth Speaker,Electronics,6,1720.84,10325.04,Card
+COL0401,2026-03-26,EEE,East,USB-C Hub,Computer Accessories,1,1327.66,1327.66,Card
+COL0402,2026-08-15,AI&DS,North,Notebook Pro,Stationery,7,254.78,1783.46,UPI
+COL0403,2026-07-16,ECE,West,Notebook Pro,Stationery,2,253.46,506.92,Cash
+COL0404,2026-02-13,AI&DS,East,Notebook Pro,Stationery,4,237.89,951.56,UPI
+COL0405,2026-09-18,AI&DS,West,Desk Organizer,Study Accessories,4,450.59,1802.36,Cash
+COL0406,2026-02-27,AI&DS,West,Wireless Mouse,Computer Accessories,4,648.34,2593.36,UPI
+COL0407,2026-06-12,AI&DS,West,Keyboard Slim,Computer Accessories,1,1096.28,1096.28,Net Banking
+COL0408,2026-02-07,CSE,North,Power Bank,Electronics,3,1472.51,4417.53,UPI
+COL0409,2026-01-31,EEE,East,Calculator FX,Study Accessories,4,725.46,2901.84,Net Banking
+COL0410,2026-03-20,ECE,North,Study Planner,Stationery,7,274.03,1918.21,Cash
+COL0411,2026-03-21,MECH,East,USB-C Hub,Computer Accessories,4,1422.23,5688.92,Net Banking
+COL0412,2026-08-12,CIVIL,South,File Folder Set,Stationery,2,191.44,382.88,UPI
+COL0413,2026-03-01,EEE,North,Water Bottle,Student Essentials,2,649.87,1299.74,Cash
+COL0414,2026-03-12,CIVIL,North,Mechanical Pencil Set,Stationery,2,161.55,323.1,Card
+COL0415,2026-05-13,AI&DS,East,Webcam HD,Computer Accessories,6,2209.12,13254.72,Card
+COL0416,2026-01-16,ECE,West,Calculator FX,Study Accessories,2,842.37,1684.74,Cash
+COL0417,2026-02-09,EEE,West,Keyboard Slim,Computer Accessories,2,951.64,1903.28,Cash
+COL0418,2026-03-27,ECE,South,Wireless Mouse,Computer Accessories,8,695.64,5565.12,Cash
+COL0419,2026-09-18,CSE,North,Laptop Stand,Computer Accessories,2,1133.87,2267.74,UPI
+COL0420,2026-07-16,AI&DS,South,Water Bottle,Student Essentials,1,595.62,595.62,UPI
+COL0421,2026-05-08,EEE,East,LED Desk Clock,Study Accessories,7,518.75,3631.25,Cash
+COL0422,2026-01-27,AI&DS,South,USB-C Hub,Computer Accessories,6,1200.12,7200.72,UPI
+COL0423,2026-05-25,ECE,East,Earbuds Lite,Electronics,2,2042.18,4084.36,UPI
+COL0424,2026-04-13,ECE,East,LED Desk Clock,Study Accessories,8,494.98,3959.84,Card
+COL0425,2026-09-10,AI&DS,South,Pen Pack,Stationery,6,131.37,788.22,Card
+COL0426,2026-06-27,CIVIL,North,Smart Study Lamp,Study Accessories,7,813.4,5693.8,Cash
+COL0427,2026-06-07,CSE,South,Smart Study Lamp,Study Accessories,7,961.75,6732.25,Card
+COL0428,2026-03-14,CIVIL,East,Study Planner,Stationery,8,326.58,2612.64,UPI
+COL0429,2026-09-24,EEE,East,Wireless Mouse,Computer Accessories,4,700.57,2802.28,Net Banking
+COL0430,2026-07-21,CSE,North,USB-C Hub,Computer Accessories,2,1300.41,2600.82,Net Banking
+COL0431,2026-06-11,EEE,East,Notebook Pro,Stationery,4,238.63,954.52,Cash
+COL0432,2026-04-14,AI&DS,North,Pen Pack,Stationery,5,122.13,610.65,Card
+COL0433,2026-06-10,EEE,North,Laptop Stand,Computer Accessories,3,1186.91,3560.73,Cash
+COL0434,2026-05-16,CSE,North,College Backpack,Student Essentials,8,1441.53,11532.24,Card
+COL0435,2026-06-17,AI&DS,North,Desk Organizer,Study Accessories,1,423.41,423.41,Card
+COL0436,2026-06-03,ECE,South,Power Bank,Electronics,7,1402.77,9819.39,UPI
+COL0437,2026-05-08,CSE,West,Earbuds Lite,Electronics,8,1920.25,15362.0,UPI
+COL0438,2026-04-24,AI&DS,South,Notebook Pro,Stationery,2,224.7,449.4,Net Banking
+COL0439,2026-05-13,CSE,North,Power Bank,Electronics,2,1422.03,2844.06,UPI
+COL0440,2026-02-17,ECE,North,College Backpack,Student Essentials,8,1591.73,12733.84,UPI
+COL0441,2026-08-10,CIVIL,West,Pen Pack,Stationery,1,120.43,120.43,Net Banking
+COL0442,2026-03-30,ECE,South,Smart Study Lamp,Study Accessories,7,931.94,6523.58,Card
+COL0443,2026-03-18,CSE,South,Calculator FX,Study Accessories,5,790.37,3951.85,Cash
+COL0444,2026-09-03,CSE,North,Webcam HD,Computer Accessories,7,2367.35,16571.45,Cash
+COL0445,2026-05-08,CIVIL,North,Earbuds Lite,Electronics,3,1868.33,5604.99,Net Banking
+COL0446,2026-09-06,ECE,East,Power Bank,Electronics,8,1411.46,11291.68,Net Banking
+COL0447,2026-04-23,CSE,East,Calculator FX,Study Accessories,3,723.26,2169.78,UPI
+COL0448,2026-04-30,AI&DS,North,Webcam HD,Computer Accessories,6,2316.36,13898.16,Card
+COL0449,2026-01-29,AI&DS,West,Water Bottle,Student Essentials,5,603.04,3015.2,Cash
+COL0450,2026-06-12,CIVIL,East,Mechanical Pencil Set,Stationery,3,169.57,508.71,UPI
+COL0451,2026-04-07,EEE,East,Power Bank,Electronics,3,1416.66,4249.98,Card
+COL0452,2026-04-30,MECH,South,Webcam HD,Computer Accessories,1,2018.8,2018.8,UPI
+COL0453,2026-04-14,AI&DS,East,Keyboard Slim,Computer Accessories,8,899.24,7193.92,Card
+COL0454,2026-03-14,CSE,East,Bluetooth Speaker,Electronics,1,1446.11,1446.11,UPI
+COL0455,2026-06-22,ECE,East,Power Bank,Electronics,7,1423.07,9961.49,Card
+COL0456,2026-09-07,CIVIL,East,Mechanical Pencil Set,Stationery,7,189.45,1326.15,Card
+COL0457,2026-03-31,EEE,East,LED Desk Clock,Study Accessories,6,518.61,3111.66,Cash
+COL0458,2026-07-20,MECH,North,Notebook Pro,Stationery,3,260.4,781.2,Card
+COL0459,2026-04-24,CIVIL,North,Mini Whiteboard,Study Accessories,6,757.86,4547.16,Net Banking
+COL0460,2026-05-02,ECE,East,Notebook Pro,Stationery,6,261.22,1567.32,Card
+COL0461,2026-05-16,AI&DS,South,USB-C Hub,Computer Accessories,6,1285.13,7710.78,UPI
+COL0462,2026-01-01,CSE,West,Power Bank,Electronics,5,1479.31,7396.55,Net Banking
+COL0463,2026-09-10,EEE,East,Study Planner,Stationery,3,322.0,966.0,Net Banking
+COL0464,2026-04-26,AI&DS,West,Laptop Stand,Computer Accessories,8,1268.24,10145.92,UPI
+COL0465,2026-05-14,CSE,North,Wireless Mouse,Computer Accessories,5,586.71,2933.55,Cash
+COL0466,2026-02-08,MECH,North,Mechanical Pencil Set,Stationery,7,166.86,1168.02,Cash
+COL0467,2026-08-09,CIVIL,South,Mini Whiteboard,Study Accessories,8,727.59,5820.72,Net Banking
+COL0468,2026-04-16,AI&DS,West,Mechanical Pencil Set,Stationery,1,164.73,164.73,Cash
+COL0469,2026-01-26,EEE,West,Desk Organizer,Study Accessories,5,425.43,2127.15,Card
+COL0470,2026-02-14,ECE,West,Wireless Mouse,Computer Accessories,6,584.6,3507.6,Card
+COL0471,2026-05-30,CSE,West,Laptop Stand,Computer Accessories,1,1128.73,1128.73,UPI
+COL0472,2026-05-16,CSE,West,Desk Organizer,Study Accessories,7,446.39,3124.73,Card
+COL0473,2026-08-17,CSE,East,Power Bank,Electronics,7,1362.46,9537.22,Net Banking
+COL0474,2026-05-18,MECH,North,Pen Pack,Stationery,5,121.94,609.7,Card
+COL0475,2026-07-31,MECH,South,Laptop Stand,Computer Accessories,2,1239.32,2478.64,UPI
+COL0476,2026-09-01,MECH,South,Earbuds Lite,Electronics,7,2075.85,14530.95,Net Banking
+COL0477,2026-01-18,MECH,South,Desk Organizer,Study Accessories,2,439.55,879.1,UPI
+COL0478,2026-03-27,AI&DS,South,Pen Pack,Stationery,3,140.59,421.77,Card
+COL0479,2026-08-11,AI&DS,South,Wireless Mouse,Computer Accessories,7,594.27,4159.89,Cash
+COL0480,2026-07-23,MECH,East,Bluetooth Speaker,Electronics,2,1466.93,2933.86,Cash
+COL0481,2026-01-07,CIVIL,West,Keyboard Slim,Computer Accessories,8,1082.35,8658.8,UPI
+COL0482,2026-02-21,CSE,North,Study Planner,Stationery,3,277.96,833.88,Cash
+COL0483,2026-05-16,EEE,West,LED Desk Clock,Study Accessories,6,590.49,3542.94,Net Banking
+COL0484,2026-03-15,MECH,West,Wireless Mouse,Computer Accessories,3,619.85,1859.55,UPI
+COL0485,2026-01-26,CIVIL,West,Earbuds Lite,Electronics,6,1971.36,11828.16,Cash
+COL0486,2026-06-05,ECE,East,Power Bank,Electronics,1,1353.63,1353.63,Net Banking
+COL0487,2026-08-15,ECE,East,Laptop Stand,Computer Accessories,4,1111.33,4445.32,Net Banking
+COL0488,2026-04-19,EEE,West,Mini Whiteboard,Study Accessories,2,655.37,1310.74,Cash
+COL0489,2026-09-17,EEE,South,Wireless Mouse,Computer Accessories,3,592.62,1777.86,UPI
+COL0490,2026-04-13,CSE,South,Mechanical Pencil Set,Stationery,4,192.43,769.72,UPI
+COL0491,2026-04-12,ECE,East,Pen Pack,Stationery,1,139.79,139.79,Net Banking
+COL0492,2026-03-05,CIVIL,North,Keyboard Slim,Computer Accessories,7,1026.05,7182.35,Card
+COL0493,2026-04-01,EEE,East,Power Bank,Electronics,8,1425.31,11402.48,Cash
+COL0494,2026-02-16,ECE,North,Mechanical Pencil Set,Stationery,5,187.91,939.55,Net Banking
+COL0495,2026-04-20,AI&DS,South,Wireless Mouse,Computer Accessories,3,694.93,2084.79,Card
+COL0496,2026-01-05,EEE,South,Calculator FX,Study Accessories,7,801.12,5607.84,Card
+COL0497,2026-06-06,CIVIL,East,Mini Whiteboard,Study Accessories,1,660.38,660.38,Net Banking
+COL0498,2026-04-22,EEE,East,Earbuds Lite,Electronics,6,1883.43,11300.58,Net Banking
+COL0499,2026-07-11,MECH,East,File Folder Set,Stationery,2,179.39,358.78,Cash
+COL0500,2026-05-22,CIVIL,East,Laptop Stand,Computer Accessories,8,1094.41,8755.28,Cash
